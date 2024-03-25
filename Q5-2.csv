@@ -1,0 +1,50 @@
+State,vehicle_maker,make_count
+Alabama,Dodge,5
+Alaska,Chevrolet,2
+Arizona,Pontiac,3
+Arkansas,Chevrolet,1
+California,Nissan,6
+Colorado,Chevrolet,5
+Connecticut,Maserati,2
+Delaware,Mitsubishi,2
+"District of Columbia",Chevrolet,4
+Florida,Toyota,7
+Georgia,Toyota,3
+Hawaii,Ford,1
+Idaho,Dodge,2
+Illinois,GMC,3
+Indiana,Mazda,4
+Iowa,Isuzu,1
+Kansas,Mercedes-Benz,1
+Kentucky,Acura,1
+Louisiana,BMW,2
+Maine,Mercedes-Benz,1
+Maryland,Ford,5
+Massachusetts,Chevrolet,2
+Michigan,Ford,3
+Minnesota,GMC,3
+Mississippi,Toyota,1
+Missouri,Chevrolet,4
+Montana,Dodge,1
+Nebraska,Toyota,1
+Nevada,Pontiac,3
+"New Hampshire",Lincoln,1
+"New Jersey",Mercedes-Benz,2
+"New Mexico",Dodge,2
+"New York",Toyota,5
+"North Carolina",Volvo,3
+"North Dakota",Ford,1
+Ohio,Chevrolet,6
+Oklahoma,Toyota,2
+Oregon,Toyota,2
+Pennsylvania,Toyota,3
+"South Carolina",Jaguar,1
+Tennessee,Mazda,3
+Texas,Chevrolet,9
+Utah,Chevrolet,1
+Vermont,Mazda,1
+Virginia,Ford,5
+Washington,Chevrolet,5
+"West Virginia",Mercedes-Benz,2
+Wisconsin,Mazda,1
+Wyoming,Buick,1

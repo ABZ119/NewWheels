@@ -1,0 +1,17 @@
+credit_card_type,average_discount
+jcb,0.607382
+visa-electron,0.623469
+switch,0.610233
+diners-club-carte-blanche,0.614490
+laser,0.643846
+china-unionpay,0.622174
+diners-club-enroute,0.599792
+americanexpress,0.616327
+mastercard,0.629500
+visa,0.600833
+bankcard,0.609545
+solo,0.585000
+maestro,0.624219
+diners-club-us-ca,0.614615
+instapayment,0.620625
+diners-club-international,0.584000
